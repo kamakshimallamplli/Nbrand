@@ -10,9 +10,6 @@ const Sun= () => {
 
   return (
     <div className='product-page'>
-        
-    
-    
       <h1>Nandu Brands</h1>
      <div className='content-container'>
       <div className='image-container'>

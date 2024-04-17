@@ -11,18 +11,14 @@
   }
   .header{
     display: flex;
-    align-items: center;
-  
-    
+    align-items: center;  
   }
    .list{
-margin: auto;
-margin-left: 0px;
-margin-right:0px;
+    margin: auto;
+    margin-left: 0px;
+    margin-right:0px;
     font-size: 30px;
     justify-content: center;
-  
-    
   }
   .list1{
     margin-right: 60px;
@@ -68,9 +64,7 @@ margin-right:0px;
   }
   
   .btn-container button {
-    margin-right: 10px;
-    
-    
+    margin-right: 10px;  
   }
   .red_btn{
     border-radius: 14px;
